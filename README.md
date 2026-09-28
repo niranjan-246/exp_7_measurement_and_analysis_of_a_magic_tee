@@ -66,8 +66,9 @@ A magic tee is normally characterised by two quantities:
 3. Measure the values from the VSWR meter for E-Arm and H-Arm as input port.
 
 ## Observation (Measurement of isolation between E and H arms)
-
-*(Include your own table relevant to the experiment.)*
+<img width="1061" height="402" alt="image" src="https://github.com/user-attachments/assets/ce5ec1fe-2dd9-4097-ac12-1cd7daaf2d9d" />
+<img width="1057" height="870" alt="image" src="https://github.com/user-attachments/assets/0b2717c4-498d-4a24-9323-2b6873f5e662" />
+<img width="1055" height="746" alt="image" src="https://github.com/user-attachments/assets/2932dc23-1f4e-4bad-aea1-bd03acab14cd" />
 
 ## Precautions
 
@@ -77,4 +78,4 @@ A magic tee is normally characterised by two quantities:
 
 ## Conclusion
 
-*(Write your own.)*
+ thus the experiment is verified.
